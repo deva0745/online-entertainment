@@ -1,2 +1,2 @@
 # online-entertainment
-This is a website repository for online entertainment.
+This is a website for online entertainment.
